@@ -4,8 +4,7 @@
 
 # Pablo there
 
-I am 23 years old student at [<img height=10 src="https://img.shields.io/badge/Epitech-1a2b6d?style=for-the-badge&logo=/e/&logoColor=white">](https://www.epitech.eu) in Paris.
-
+I am 23 years old student at [<img align="center" src="https://img.shields.io/badge/Epitech-1a2b6d?style=for-the-badge&logo=/e/&logoColor=white">](https://www.epitech.eu) in Paris.
 
 
 
